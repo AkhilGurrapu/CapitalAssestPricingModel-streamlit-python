@@ -3,7 +3,7 @@ yfinance
 pandas
 numpy
 plotly.express
-pandas_datareader.data 
+pandas_datareader
 datetime
 
 

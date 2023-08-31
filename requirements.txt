@@ -1,1 +1,9 @@
-yfinance==0.1.63
+streamlit
+yfinance
+pandas
+numpy
+plotly.express
+pandas_datareader.data 
+datetime
+
+

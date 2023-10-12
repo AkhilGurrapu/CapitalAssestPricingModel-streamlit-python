@@ -18,8 +18,8 @@ Explore the application live: [CAPM Application](https://capitalassestpricingmod
 1. **Fork the Repository:** Click on the "Fork" button at the top right corner of this repository to create your own copy.
 2. **Clone the Repository:** git clone [CAPM Git Source](https://github.com/AkhilGurrapu/CapitalAssestPricingModel-streamlit-python)
 3. **Navigate to the Project Directory:** 
-4. **Install Dependencies:** Ensure you have Python installed. Install the required packages using pip: streamlit run my_capm_app.py
-5. **Run the Application:** Start the Streamlit application using the following command:streamlit run my_capm_app.py
+4. **Install Dependencies:** Ensure you have Python installed. Install the required packages using pip: ``` streamlit run my_capm_app.py ```
+5. **Run the Application:** Start the Streamlit application using the following command: ```streamlit run my_capm_app.py```
 6. **Access the Application:** Open your web browser and go to `http://localhost:8501` to use the application locally.
 
 
